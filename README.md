@@ -1,5 +1,5 @@
 # Cafes Website
-## Concepts Practised
+## Concepts
 - Creating Forms with Flask-WTF
 - Adding Validation to Forms with Flask-WTF
 - Receiving Form Data with WTForms
